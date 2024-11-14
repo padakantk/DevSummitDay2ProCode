@@ -74,3 +74,6 @@ After deployment is complete, which will take approximately 30-35 minutes (API M
 7. Update App Service, create/sen environment variables
 8. Use OpenAI Playground to perform prompt engineering, update code with refined prompt
 9. Implement APIM
+
+
+for creating a container using :az acr build --image dev-summit/ice-cream-bot:2024114-297979 --registry icecreamchatsolutionkpp2979acrybhxicthv6rca --file Dockerfile .
